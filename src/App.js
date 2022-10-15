@@ -25,7 +25,7 @@ function App() {
         </div>
         <div className={'column_container'}>
           <div className={'image_container'}>
-            <img src={me} className={'me_image'} alt="kleber photo" />
+            <img src={me} className={'me_image'} alt="kleber" />
           </div>
           <div className={'social_container'}>
             <h3 className={'name'}>Kleber Fernando</h3>
